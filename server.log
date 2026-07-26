@@ -1,0 +1,116 @@
+nohup: ignoring input
+🎮 五子棋服务器启动，端口 9527
+积分榜已启用，聊天功能已启用
+新客户端连接: 5
+收到: {"cmd":"login","name":"Player"}
+
+用户登录: Player (5)
+新客户端连接: 6
+收到: {"cmd":"login","name":"Player"}
+
+收到: {"cmd":"login","name":"zz爸爸"}
+
+用户登录: zz爸爸 (6)
+收到: {"cmd":"match","score":1500}
+
+玩家 zz爸爸 加入匹配，当前等待: 1
+收到: {"cmd":"match","score":1500}
+
+玩家 Player 加入匹配，当前等待: 2
+配对成功: zz爸爸(1000) <-> Player(1000), 房间号: 1001
+收到: {"cmd":"move","row":3,"col":11}
+
+收到: {"cmd":"move","row":3,"col":10}
+
+收到: {"cmd":"move","row":4,"col":10}
+
+收到: {"cmd":"move","row":4,"col":9}
+
+收到: {"cmd":"move","row":5,"col":9}
+
+收到: {"cmd":"move","row":5,"col":8}
+
+收到: {"cmd":"move","row":6,"col":8}
+
+收到: {"cmd":"move","row":6,"col":7}
+
+收到: {"cmd":"move","row":7,"col":7}
+
+游戏结束，胜者: black
+收到: {"cmd":"rank"}
+
+收到: {"cmd":"rank"}
+
+新客户端连接: 7
+收到: {"cmd":"login","name":"1"}
+
+用户登录: 1 (7)
+收到: {"cmd":"rank"}
+
+新客户端连接: 8
+收到: {"cmd":"login","name":"2"}
+
+用户登录: 2 (8)
+收到: {"cmd":"rank"}
+
+客户端断开: 8
+新客户端连接: 8
+新客户端连接: 9
+新客户端连接: 10
+收到: {"cmd":"login","name":"ming_rdf"}
+
+用户登录: ming_rdf (9)
+新客户端连接: 11
+收到: {"cmd":"login","name":"Player"}
+
+收到: {"cmd":"login","name":"Player"}
+
+收到: {"cmd":"login","name":"Player"}
+
+收到: {"cmd":"login","name":"Player"}
+
+收到: {"cmd":"login","name":"pin07"}
+
+用户登录: pin07 (11)
+收到: {"cmd":"match","score":1500}
+
+玩家 pin07 加入匹配，当前等待: 1
+收到: {"cmd":"match","score":1500}
+
+玩家 ming_rdf 加入匹配，当前等待: 2
+配对成功: pin07(1000) <-> ming_rdf(1000), 房间号: 1002
+收到: {"cmd":"move","row":7,"col":7}
+
+收到: {"cmd":"move","row":7,"col":8}
+
+收到: {"cmd":"move","row":8,"col":8}
+
+收到: {"cmd":"move","row":9,"col":9}
+
+收到: {"cmd":"move","row":8,"col":7}
+
+收到: {"cmd":"move","row":8,"col":9}
+
+收到: {"cmd":"login","name":"zgh"}
+
+用户登录: zgh (5)
+收到: {"cmd":"match","score":1500}
+
+玩家 zgh 加入匹配，当前等待: 1
+收到: {"cmd":"move","row":9,"col":7}
+
+收到: {"cmd":"move","row":6,"col":7}
+
+收到: {"cmd":"rank"}
+
+收到: {"cmd":"move","row":10,"col":7}
+
+收到: {"cmd":"move","row":11,"col":7}
+
+收到: {"cmd":"move","row":9,"col":10}
+
+收到: {"cmd":"move","row":10,"col":9}
+
+收到: {"cmd":"move","row":7,"col":9}
+
+玩家 zgh 心跳超时
